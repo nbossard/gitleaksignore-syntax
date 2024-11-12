@@ -7,3 +7,5 @@ Will color [comments](https://github.com/gitleaks/gitleaks/issues/1425) also.
 
 ![](screenshot.png)
 *Sample usage on neovim with gruvbox scheme*
+
+This repo is stored on github at : <https://github.com/nbossard/gitleaksignore-syntax>
